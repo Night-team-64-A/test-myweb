@@ -1,3 +1,12 @@
+
+#what
+
+githubの機能で「Organizations」の機能がありましたので、テストで試しています。
+チームを作ることで、メンバーがわかるのは良いと思います。
+この「test-myweb」は権限がmemberの人がリポジトリを作れるか、コミットできるかを調べています。
+
+
+
 # README
 
 This README would normally document whatever steps are necessary to get the
